@@ -1,0 +1,10 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using System.Reflection;
+global using ExaminationSystemDemo.Entites; 
+global using ExaminationSystemDemo.Persistence;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using ExaminationSystemDemo.Services;
+global using ExaminationSystemDemo.Abstractions; 
+global using ExaminationSystemDemo.Errors; 
+global using Mapster;
